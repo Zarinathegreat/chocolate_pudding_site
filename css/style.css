@@ -325,7 +325,59 @@ footer p {
 	font-size: 11px;
 }
 	
-	
+	/*COPYRIGHT*/
+
+.copyright .container {
+	padding: 40px;
+	text-align: center;
+}
+
+.copyright {
+	background-color: #d7dedc;
+}
+
+.inline {
+	display: inline-block;
+	font-size: 20px;
+	vertical-align: middle;
+}
+
+.cr,
+.me {
+	margin-right: 40px;
+}
+
+.fb,
+.tw {
+	margin-right: 40px;
+}
+
+
+.cr:after,
+.me:after {
+content: " ";
+border: 1 px solid #555555;
+margin-left: 35px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 	
 	
